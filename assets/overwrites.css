@@ -1,0 +1,33 @@
+.page-header {
+	background: url(/assets/header.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul strong {
+	display: inline-block;
+	color: red;
+	width: 25%;
+}
+
+ul em {
+	display: block;
+	margin-left: 25%;
+	font-size: smaller;
+	font-style: normal;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+	color: brown;
+}
+
+.main-content hr {
+	margin: 3rem 0;
+}
